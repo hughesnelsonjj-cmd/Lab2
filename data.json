@@ -1,0 +1,20 @@
+{
+    "chart_title": "Games Chart Data",
+    "data_points": [
+        {
+            "title": "Minecraft",
+            "genre": "Exploration",
+            "rating": 9.9
+        },
+        {
+            "title": "Overwatch",
+            "genre": "Shooter",
+            "rating": 7.5
+        },
+        {
+            "title": "Resident Evil",
+            "genre": "story",
+            "rating": 10.0
+        }
+    ]
+}
